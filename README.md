@@ -1,6 +1,13 @@
-# appnode
+# Flutter + Rest API NodeJs + MongoDB
 
-A new Flutter project.
+![Codigo Alpha Flutter]
+
+![alt text](https://github.com/codigoalphacol/Flutter-API-Nodejs-MongoDB/blob/master/appnodejscrud_First_Frame.png)
+
+Los inviatamos para que se suscriban en el canal de Youtube
+
+https://youtu.be/w7OVmgncYPo
+
 
 ## Getting Started
 
